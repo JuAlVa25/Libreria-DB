@@ -41,3 +41,11 @@
     }
   ]
 }
+{
+  "id": 3,
+  "titulo": "El principito",
+  "autor": "Antoine de Saint-Exupéry",
+  "genero": "Fábula",
+  "anio_publicacion": 1943,
+  "disponible": true
+}
